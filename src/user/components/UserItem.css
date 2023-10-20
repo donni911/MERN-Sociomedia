@@ -28,6 +28,7 @@
   width: 4rem;
   height: 4rem;
   margin-right: 1rem;
+  flex-shrink: 0;
 }
 
 .user-item__info h2 {
